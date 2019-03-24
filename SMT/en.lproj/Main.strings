@@ -1,0 +1,18 @@
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "48r-PF-NAs"; */
+"48r-PF-NAs.title" = "Item";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "PBL-vh-FFA"; */
+"PBL-vh-FFA.text" = "Label";
+
+/* Class = "UILabel"; text = "Welcome To Side Menu"; ObjectID = "Y3z-5a-gf6"; */
+"Y3z-5a-gf6.text" = "Welcome To Side Menu";
+
+/* Class = "UIButton"; normalTitle = "Confirm"; ObjectID = "jbx-BB-X8y"; */
+"jbx-BB-X8y.normalTitle" = "Confirm";
+
+/* Class = "UILabel"; text = "Dalia Diab"; ObjectID = "pdT-P3-6th"; */
+"pdT-P3-6th.text" = "Dalia Diab";
+
+/* Class = "UILabel"; text = "01152330663"; ObjectID = "zos-SI-5Jh"; */
+"zos-SI-5Jh.text" = "01152330663";

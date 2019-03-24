@@ -1,0 +1,6 @@
+framework module Pods_SMT {
+  umbrella header "Pods-SMT-umbrella.h"
+
+  export *
+  module * { export * }
+}
